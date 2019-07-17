@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+body {
+    background: url(../img/background.jpg) no-repeat center top fixed;
+    background-size: cover; 
+}
+.preface, .fon {
+    background: rgba(92, 86, 86, 0.5);
+    text-align: justify;
+    padding: 10px 20px;
+}
+.leftFoto{
+    float: left;
+    border-style: outset;
+    margin: 10px;
+}
+.cross{
+    text-decoration: line-through;
+}
+.under{
+    text-decoration: underline;
+}
+.nav{
+    overflow: hidden;
+    background: rgba(92, 86, 86, 0.5);
+    width: 300px;
+    list-style-type: none;
+    padding: 10px;
+}
