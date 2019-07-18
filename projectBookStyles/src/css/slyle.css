@@ -13,7 +13,7 @@ body {
 .leftFoto{
     float: left;
     border-style: outset;
-    margin: 10px;
+    margin: 0 10px 0 0;
 }
 .cross{
     text-decoration: line-through;
@@ -27,4 +27,13 @@ body {
     width: 300px;
     list-style-type: none;
     padding: 10px;
+}
+.preface{
+    font-size: small;
+}
+#note1, #note2, #note3, #note4, #note5, .up{
+    font-weight: bold;
+}
+.up{
+    font-style: italic;
 }
