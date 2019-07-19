@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+body{
+    background: #f9f9f9;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    width: 90%;
+    margin: auto;
+    height: 500px;
+}
+.box{
+text-align: center;
+}
+.but{
+    display: block;
+    border: 1px solid #23bac1;
+    color: #23bac1; 
+    background: #f9f9f9;
+    padding: 15px 77px;
+    margin: auto;
+    margin-top: 28px;
+}
+.headline{
+    display: block;
+    text-align: center;
+    color: #000000;
+    font: sans-serif;
+    font-size: 36px;
+    font-style: normal;
+}
+.tex{
+    align-self: center;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.price{
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
