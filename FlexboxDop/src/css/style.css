@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    margin: 0;
+    padding: 0;;
+}
+.wrapper{
+    background:#ffffff;
+    margin: auto;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    width: 1366px;
+    padding-top: 35px;
+    padding-bottom: 100px;
+}
+.img{
+    padding-right: 80px;
+}
+.headline{
+    font-family: Tahoma, sanserif;
+    font-size: 48px;
+    color: #000000;
+    padding-top: 70px;
+    padding-bottom: 18px;
+}
+.author{
+   font-family: Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 30px;
+   padding-bottom: 25px;
+}
+.content{
+    width: 557px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    padding-top: 23px;
+    padding-bottom: 45px;
+}
+.price{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    color: #313131;
+}
+.buttons{
+    padding: 57px 0 0 0;
+}
+.pay{
+    background: #f05a22;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 13px 50px;
+    font-size: 24px;
+    margin-right: 26px;
+}
+.toknow{
+    background: #ffffff;
+    color:#f05a22;
+    border-radius: 4px;
+    border: 1px solid #f05a22;
+    padding: 12px 23px;
+    font-size: 24px;
+}
+.payment{
+
+    background: #f2f2f2;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    width: 1366px;
+    margin: auto;
+}
+.headline2{
+   font-size: 30px;
+   font-family: Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center; 
+   padding: 80px 0 82px 0;
+}
+.holder{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    padding-right: 72px;
+    padding-bottom: 100px;
+}
+.box .text{
+    justify-content: center;
+    font-family: Myriad Pro;
+    font-size: 18px;
+    color: #333333;
+}
+.text{
+    display: block;
+}
+.pictures{
+    padding-bottom: 25px;  
+    margin-left: 50px;
+}
+.customer{
+    width: 1366px;
+}
+.buyer{
+    display: flex;
+    justify-content: center;
+}
+.block{
+    width: 261px;
+    margin-right: 15px;
+}
+.img{
+    padding-bottom: 30px;
+}
