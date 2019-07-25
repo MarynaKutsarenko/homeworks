@@ -1,0 +1,146 @@
+body{
+    color: #32325f;
+}
+.main-image img {
+    max-width: 100%;
+}
+.navbar-brand {
+    color: #95989a;
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 27px;
+}
+
+.title {
+    font-family: Helvetica Neue;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 34px;
+}
+
+.description {
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.price-tag {
+    color: #525f7f;
+    font-family: Helvetica Neue;
+    font-size: 48px;
+    font-weight: 400;
+}
+
+.btn-success {
+    margin-right: 50px;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+.hero {
+    background-color: #f4f5f7;
+    padding-top: 70px;
+    padding-bottom: 190px ;
+}
+
+.section {
+    padding-top: 90px;
+    padding-bottom: 150px;
+}
+
+.section-subtitle {
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 28px;
+}
+
+.section-title {
+    font-family: Helvetica Neue;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.section .about-block img {
+    padding-bottom: 40px;
+}
+
+.about-block {
+    margin-top:100px;
+}
+
+.block-text {
+    color: #525f7f;
+    font-family: Helvetica Neue;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.people {
+    background-color: #f4f5f7;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+
+.people-subtitle {
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+
+.people-title {
+    font-family: Helvetica Neue;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.people-block {
+    padding-top: 75px;
+}
+
+.people-block img {
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+.footer {
+    background-color: #32325f;
+    padding-top: 78px;
+    padding-bottom: 114px;
+}
+
+.footer-title {
+    color: #ffffff;
+    font-family: Helvetica Neue;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 38px;
+}
+
+.footer-information p {
+    color: #ffffff;
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.footer a {
+    display: block;
+    color: #ffffff;
+}
+
+.callback {
+    width: 249px;
+}
