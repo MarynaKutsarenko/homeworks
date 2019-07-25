@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+.wrap {
+    background: url(../img/background.jpg) no-repeat center top fixed;
+    background-size: cover; 
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.preface, .fon {
+    background: rgba(92, 86, 86, 0.5);
+    text-align: justify;
+    padding: 21px 20px;
+}
+.leftFoto{
+    float: left;
+    border-style: outset;
+    margin: 0 10px 0 0;
+}
+.cross{
+    text-decoration: line-through;
+}
+.under{
+    text-decoration: underline;
+}
+.nav {
+    background: rgba(92, 86, 86, 1.5);
+    width: 245px;
+    height: 100%;
+    list-style: none;
+    text-align: center;
+    line-height: 30px;
+}
+.navigation{
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+
+.preface{
+    font-size: small;
+}
+#note1, #note2, #note3, #note4, #note5, .up{
+    font-weight: bold;
+}
+.up{
+    font-style: italic;
+}
+p{
+    text-align: justify;
+    padding: 10px 10px;
+
+}
